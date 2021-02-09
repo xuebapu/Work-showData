@@ -1,0 +1,69 @@
+{
+  "user_count":1000,
+  "top_sales":[{
+    "name":"红酒1",
+    "sales_num":1000},{
+    "name":"红酒2",
+    "sales_num":982},{
+    "name":"红酒3",
+    "sales_num":812},{
+    "name":"红酒4",
+    "sales_num":701},{
+    "name":"红酒5",
+    "sales_num":656},{
+    "name":"红酒6",
+    "sales_num":621},{
+    "name":"红酒7",
+    "sales_num":552}, {
+    "name":"红酒8",
+    "sales_num":531},{
+    "name":"红酒9",
+    "sales_num":476},{
+    "name":"红酒10",
+    "sales_num":321}],
+  "sales_stats":{
+    "shangou":"127.1",
+    "shangou_danliang":"111",
+    "miaofa":"112",
+    "kuajing":"212"}
+},
+{
+  "user_count": 100,
+  "top_sales": [{
+    "name": "红酒111asda啊是大家撒娇巴萨双击打开击杀开具收款",
+    "sales_num": 10
+  }, {
+    "name": "红酒阿松大从珠江新城注册会计师金发少女但再擦金沙萨的话2",
+    "sales_num": 9
+  }, {
+    "name": "红酒2",
+    "sales_num": 8
+  }, {
+    "name": "红酒2",
+    "sales_num": 7
+  }, {
+    "name": "红酒2",
+    "sales_num": 6
+  }, {
+    "name": "红酒2",
+    "sales_num": 5
+  }, {
+    "name": "红酒2",
+    "sales_num": 4
+  }, {
+    "name": "红酒2",
+    "sales_num": 3
+  }, {
+    "name": "红酒2",
+    "sales_num": 2
+  }, {
+    "name": "红酒2",
+    "sales_num": 1
+  }],
+  "sales_stats": {
+    "shangou": "12227.1",
+    "shanghou_danliang": "1211",
+    "miaofa": "1122",
+    "kuajing": "212"
+  }
+}
